@@ -1,6 +1,8 @@
 # t0d0
 
-A new Flutter project.
+A Flutter project designed to help users organize and track their daily activities.
+this application allows users to create, update, and delete tasks in an intuitive, user-friendly interface.
+It incorporates backend storage for task persistence, making it easy to retain task data across sessions.
 
 ## Getting Started
 
